@@ -39,3 +39,12 @@ stable-baselines3>=2.3
 # Visualization
 seaborn>=0.13
 plotly>=5.20
+
+# Optional JAX track (Lê Nguyễn Ngọc Vũ)
+# CPU-only wheels below. For GPU:
+#   pip install -U "jax[cuda12]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+jax>=0.4.25
+jaxlib>=0.4.25
+flax>=0.8
+optax>=0.2
+orbax-checkpoint>=0.5

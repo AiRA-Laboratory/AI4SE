@@ -1,6 +1,6 @@
 # Module 4 — Reinforcement Learning
 
-**TA:** TA-4 · **Weeks:** 7–8
+**TA:** Phạm Ngọc Khánh · **Weeks:** 7–8
 
 ---
 

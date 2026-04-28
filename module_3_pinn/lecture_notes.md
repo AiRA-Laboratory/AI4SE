@@ -1,6 +1,6 @@
 # Module 3 — Physics-Informed Neural Networks (PINN)
 
-**TA:** TA-3 · **Weeks:** 5–6
+**TA:** Nguyễn Như Thịnh (ODE/PDE), Lê Nguyễn Ngọc Vũ (JAX optional) · **Weeks:** 5–6
 
 ---
 

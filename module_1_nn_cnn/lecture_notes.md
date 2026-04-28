@@ -1,6 +1,6 @@
 # Module 1 — Neural Networks and CNN
 
-**TA:** TA-1 · **Weeks:** 1–2
+**TA:** Nguyễn Đình Hải · **Weeks:** 1–2
 
 ---
 

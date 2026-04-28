@@ -44,3 +44,10 @@ dependencies:
     - diffusers>=0.27
     - einops>=0.8
     - torchinfo>=1.8
+    # Optional JAX track (Lê Nguyễn Ngọc Vũ)
+    # For GPU: pip install -U "jax[cuda12]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+    - jax>=0.4.25
+    - jaxlib>=0.4.25
+    - flax>=0.8
+    - optax>=0.2
+    - orbax-checkpoint>=0.5

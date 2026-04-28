@@ -1,6 +1,6 @@
 # Module 2 — Generative AI: VAE and Diffusion
 
-**TA:** TA-2 · **Weeks:** 3–4
+**TA:** Nguyễn Việt Anh, Trần Ngọc Thưởng · **Weeks:** 3–4
 
 ---
 

@@ -42,10 +42,11 @@ Function Approximation → Generative Modeling → Physics-Informed Learning →
 
 | Folder | Content | TA |
 |--------|---------|-----|
-| [`module_1_nn_cnn/`](module_1_nn_cnn/) | PyTorch basics, MLP, CNN | TA-1 |
-| [`module_2_generative/`](module_2_generative/) | VAE, Diffusion | TA-2 |
-| [`module_3_pinn/`](module_3_pinn/) | PINN for ODE & PDE | TA-3 |
-| [`module_4_rl/`](module_4_rl/) | Reinforcement Learning | TA-4 |
+| [`module_1_nn_cnn/`](module_1_nn_cnn/) | PyTorch basics, MLP, CNN | Nguyễn Đình Hải |
+| [`module_2_generative/`](module_2_generative/) | VAE, Diffusion | Nguyễn Việt Anh, Trần Ngọc Thưởng |
+| [`module_3_pinn/`](module_3_pinn/) | PINN for ODE & PDE | Nguyễn Như Thịnh, Lê Nguyễn Ngọc Vũ |
+| [`module_4_rl/`](module_4_rl/) | Reinforcement Learning | Phạm Ngọc Khánh |
+| [`optional/jax_scientific_ai/`](optional/jax_scientific_ai/) | JAX for Scientific AI (optional track) | Lê Nguyễn Ngọc Vũ |
 | [`projects/`](projects/) | Mini-project templates & student groups | All TAs |
 
 ---
@@ -126,10 +127,11 @@ Each module has one TA responsible for:
 
 | TA | Module | Weeks |
 |----|--------|-------|
-| TA-1 | Neural Networks / CNN | 1–2 |
-| TA-2 | Generative AI (VAE + Diffusion) | 3–4 |
-| TA-3 | PINN | 5–6 |
-| TA-4 | Reinforcement Learning | 7–8 |
+| Nguyễn Đình Hải | Neural Networks / CNN | 1–2 |
+| Nguyễn Việt Anh, Trần Ngọc Thưởng | Generative AI (VAE + Diffusion) | 3–4 |
+| Nguyễn Như Thịnh, Lê Nguyễn Ngọc Vũ | PINN | 5–6 |
+| Phạm Ngọc Khánh | Reinforcement Learning | 7–8 |
+| Lê Nguyễn Ngọc Vũ | JAX for Scientific AI (optional) | TBD |
 
 ---
 
