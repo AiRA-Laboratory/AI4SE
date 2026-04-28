@@ -1,0 +1,46 @@
+name: ai4science
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Python
+  - python=3.11
+
+  # Core scientific computing
+  - numpy>=1.26
+  - scipy>=1.12
+  - matplotlib>=3.8
+  - pandas>=2.1
+
+  # PyTorch (CPU + CUDA 12.1 — change cuda version as needed)
+  - pytorch>=2.2
+  - torchvision>=0.17
+  - torchaudio>=2.2
+  - pytorch-cuda=12.1       # remove this line if using CPU only
+
+  # Jupyter
+  - jupyterlab>=4.1
+  - ipywidgets>=8.1
+  - notebook>=7.1
+
+  # ML utilities
+  - scikit-learn>=1.4
+  - tqdm>=4.66
+  - tensorboard>=2.16
+
+  # RL
+  - gymnasium>=0.29
+
+  # Visualization
+  - seaborn>=0.13
+  - plotly>=5.20
+
+  # pip-only packages
+  - pip
+  - pip:
+    - stable-baselines3>=2.3
+    - diffusers>=0.27
+    - einops>=0.8
+    - torchinfo>=1.8

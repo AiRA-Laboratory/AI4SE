@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+env/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (large files — add datasets locally, do not push)
+data/
+datasets/
+*.csv
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.npy
+*.npz
+
+# Model checkpoints (large — push only small demo weights if needed)
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Outputs and logs
+outputs/
+runs/
+logs/
+wandb/
+*.log
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Secrets — NEVER commit
+.env
+*.key
+*.pem
+secrets.yaml
+credentials.json
+
+# Student submissions — managed separately
+projects/student_groups/*/output/
+projects/student_groups/*/checkpoints/
